@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nzmnisam
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning JavaScript, PHP, ReactJS, Laravel
+- 👀 I’m a fullstack developer
+- 🌱 I’m currently building websites as a freelancer, among other things
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email - milostaptap@gmail.com
 
